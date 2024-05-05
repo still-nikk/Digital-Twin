@@ -18,4 +18,16 @@ file to IPFS with user’s wallet address.
 - Document Upload: Users must have the capability to securely upload digital documents to the platform. 
 - Digital Twin Creation: Once a document is uploaded, the system must automatically generate a digital twin of the document using blockchain technology. 
 - Ownership Tracking: The system must transparently track changes in document ownership by utilizing the immutable ledger of blockchain. 
-- Authenticity Verification: Users should have the ability to verify the authenticity of documents through verification mechanisms based on blockchain. 
+- Authenticity Verification: Users should have the ability to verify the authenticity of documents through verification mechanisms based on blockchain.
+- Integration with IPFS: Documents must be stored securely using IPFS, guaranteeing decentralized and resilient storage. 
+- Smart Contract Integration: Smart contracts must be utilized to manage document ownership and facilitate secure transactions.
+
+  ### Non-functional requirements 
+- Security: The system must implement robust security measures to prevent unauthorized access and data breaches. 
+- Scalability: The platform must be capable of handling a large volume of documents and users without compromising performance. 
+- Reliability: The system must be highly reliable, ensuring minimal downtime and data loss. 
+- Usability: The user interface must be intuitive and user-friendly, enabling users to easily upload, retrieve, and verify documents. 
+- Performance: The platform must have fast response times for document retrieval and verification operations. 
+- Compatibility: The system must be compatible with various devices and browsers to ensure accessibility for all users. 
+
+

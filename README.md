@@ -22,7 +22,7 @@ file to IPFS with user’s wallet address.
 - Integration with IPFS: Documents must be stored securely using IPFS, guaranteeing decentralized and resilient storage. 
 - Smart Contract Integration: Smart contracts must be utilized to manage document ownership and facilitate secure transactions.
 
-  ### Non-functional requirements 
+### Non-functional requirements 
 - Security: The system must implement robust security measures to prevent unauthorized access and data breaches. 
 - Scalability: The platform must be capable of handling a large volume of documents and users without compromising performance. 
 - Reliability: The system must be highly reliable, ensuring minimal downtime and data loss. 

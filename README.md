@@ -1,6 +1,14 @@
 # Digital-Twin
 Digital twins are a revolutionary concept that has emerged from industries such as aerospace and manufacturing. They provide virtual replicas of physical assets or systems, which are synchronized with real-time data from sensors and IoT devices. This empowers them to optimize operations, improve decision-making, and drive innovation across various sectors including healthcare, transportation, and smart cities. With their ability to bridge the gap between the physical and  digital realms, digital twins have the potential to transform industries by enabling personalized treatments, predictive interventions, and efficient infrastructure management. This marks the beginning of a new era of digital transformation and efficiency.
 
+## Preview
+![image](https://github.com/still-nikk/Digital-Twin/assets/112101871/b05d123d-ff13-4919-8346-aab82df81943)
+![image](https://github.com/still-nikk/Digital-Twin/assets/112101871/f1c145ce-b335-405f-b996-eeca2073022f)
+![image](https://github.com/still-nikk/Digital-Twin/assets/112101871/ed92515e-7327-4750-a127-8d93bfff7c06)
+
+
+
+
 ### DApps 
 Decentralized applications (DApps) epitomize the diverse applications of blockchain technology. Operating on blockchain platforms like Ethereum, these applications function without a central governing body, utilizing smart contracts - self-executing contracts with predetermined rules embedded on the blockchain. DApps inherit the characteristics of blockchain, including transparency, immutability, and security, providing a broad spectrum of services ranging from decentralized finance (DeFi) platforms and decentralized exchanges (DEXs) to gaming, social media platforms, and identity verification systems. 
 
